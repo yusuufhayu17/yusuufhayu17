@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yusuufhayu17
-- 👀 I’m interested in application development
-- 🌱 I’m currently learning web design
+- 👀 I’m interested in application development, web design AI/ML 
 - 📫 How to reach me yusufhayu2007@gmail.com
 
 <!---
